@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jejhUJz+niws5EIG3aiNAb6SV+vdhleENcSs7V2+POiWX/Eb2ml2mKP1ab7ihR+/LDH6OL7Uine61LC79YM/6w==",
+  "success": true,
+  "projectFilePath": "E:\\4 курс\\Проект Ю\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\student\\.nuget\\packages\\carbon.data.protection\\1.5.0\\carbon.data.protection.1.5.0.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\carbon.packaging\\1.50.0\\carbon.packaging.1.50.0.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\carbon.storage\\3.0.1\\carbon.storage.3.0.1.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\carbon.versioncontrol\\2.6.0\\carbon.versioncontrol.2.6.0.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\carbon.versioning\\2.0.1\\carbon.versioning.2.0.1.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\github\\1.34.0\\github.1.34.0.nupkg.sha512"
+  ],
+  "logs": []
+}
